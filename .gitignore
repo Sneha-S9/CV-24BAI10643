@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+outputs/
+logs/
+models/*.joblib
+data/sample/
+.pytest_cache/
+preview*.jpg
